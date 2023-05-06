@@ -1,0 +1,3 @@
+C:/Users/kevin/CLionProjects/Parcial2ArchivosCortez/cmake-build-debug/CMakeFiles/Parcial2ArchivosCortez.dir
+C:/Users/kevin/CLionProjects/Parcial2ArchivosCortez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CLionProjects/Parcial2ArchivosCortez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
